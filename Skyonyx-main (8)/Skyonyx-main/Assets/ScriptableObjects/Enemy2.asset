@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Enemy2
   m_EditorClassIdentifier: 
   speed: 1
-  leftLimit: 6
-  rightLimit: 9
+  leftLimit: -10.58
+  rightLimit: -6.08
