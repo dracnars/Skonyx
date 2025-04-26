@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 6
   jumpForce: 9
+  jumpForce: 9.5
   wallJumpForce: 3
   maxFallSpeed: 9
